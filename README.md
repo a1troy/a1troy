@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a1troy
 - 👀 I’m interested in creating new technologies
-- 🌟 My current prokect is Wissenbürgen
+- 🌟 My current project is Wissenbürgen
 - 🌱 I’m currently learning Java/API technologies
 - 💞️ I’m looking to collaborate on making a payment gateway system
 - 📫 How to reach me through my collabs
